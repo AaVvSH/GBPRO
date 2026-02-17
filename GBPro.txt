@@ -1,7 +1,7 @@
 {
   "versionCode": 2147483647,
-  "versionName": "V2.25.36.80",
-  "Msg": "GBWhatsApp Pro V25.98
+  "versionName": "V2.25.36.90",
+  "Msg": "GBWhatsApp Pro V26.98
 
 👤 Now you can personalize your profile even more! 😊 The cover photo feature for profiles is now available, 
 giving you an extra chance to showcase your unique style. 😎
