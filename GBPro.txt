@@ -1,15 +1,12 @@
-{
-  "versionCode": 2147483647,
-  "versionName": "2.25.36.73",
-  "Msg": "GBWhatsApp Pro V25.94
+{ 
+  "versionCode": 2147483647, 
+  "versionName": "2.26.7.75", 
+  "Msg": "GBWhatsApp Pro V26.28 
 
-👤 Now you can personalize your profile even more! 😊 The cover photo feature for profiles is now available, 
-giving you an extra chance to showcase your unique style. 😎
+📝 حرية أكبر للتعبير عن نفسك! تم رفع الحد الأقصى لعدد الأحرف في تحديثات الحالة الجديدة بشكل ملحوظ! 
+بدلاً من 50 حرفًا فقط، يمكنك الآن كتابة حالة تصل إلى 500 حرف ✍️🔥 
 
-🔔 Stay updated with your friends! 🔔 A new feature allows you to receive notifications when any contact posts a new status. 
-Never miss out on the latest updates and moments! 🎉
-
-📇 New icons for easier navigation! 📲 We've added icons next to options on the main screen and in the 
-chat screen, allowing you to navigate between choices faster and more easily. ⚡️.",
-  "downloadLink": "https://t.me/VO_SH"
+📇 أيقونات جديدة لتسهيل التنقل! 📲 أضفنا أيقونات بجوار الخيارات على الشاشة الرئيسية وفي 
+شاشة الدردشة، مما يسمح لك بالتنقل بين الخيارات بشكل أسرع وأسهل. ⚡️.", 
+  "downloadLink": "https://t.me/VO_SH" 
 }
