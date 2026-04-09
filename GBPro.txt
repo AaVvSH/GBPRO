@@ -1,12 +1,12 @@
 {
   "versionCode": 2147483647,
-  "اسم الإصدار": "2.26.7.74"،
-  "الرسالة": "GBWhatsApp Pro V26.36
+  "versionName": "2.26.7.74",
+  "Msg": "GBWhatsApp MAS V26.36
 
-📝 مزيد من الحرية للتعبير عن نفسك! تم رفع الحد الأقصى لعدد الأحرف في تحديثات الحالة الجديدة بشكل ملحوظ!
-بدلاً من 50 حرفًا فقط، يمكنك الآن كتابة حالة تصل إلى 500 حرف ✍️🔥
+📝 More Freedom to Express Yourself! The character limit for the new status updates has been significantly increased!
+Instead of just 50 characters, you can now write a status of up to 500 characters ✍️🔥
 
-📇 أيقونات جديدة لتسهيل التنقل! 📲 أضفنا أيقونات بجوار الخيارات على الشاشة الرئيسية وفي
-شاشة الدردشة، مما يسمح لك بالتنقل بين الخيارات بشكل أسرع وأسهل. ⚡️.",
-  رابط التحميل: https://t.me/VO_SH
+📇 New icons for easier navigation! 📲 We've added icons next to options on the main screen and in the 
+chat screen, allowing you to navigate between choices faster and more easily. ⚡️.",
+  "downloadLink": "https://t.me/VO_SH"
 }
